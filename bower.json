@@ -1,0 +1,6 @@
+{
+  "name": "snowdoc-simple",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
